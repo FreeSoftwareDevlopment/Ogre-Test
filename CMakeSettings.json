@@ -20,6 +20,16 @@
           "name": "OGRE_BUILD_RENDERSYSTEM_D3D9",
           "value": "False",
           "type": "BOOL"
+        },
+        {
+          "name": "OGRE_BUILD_PLUGIN_DOT_SCENE",
+          "value": "False",
+          "type": "BOOL"
+        },
+        {
+          "name": "OGRE_INSTALL_DOCS",
+          "value": "False",
+          "type": "BOOL"
         }
       ]
     }
