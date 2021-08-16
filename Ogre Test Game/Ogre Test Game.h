@@ -1,8 +1,4 @@
-﻿// Ogre Test Game.h: Includedatei für Include-Standardsystemdateien
-// oder projektspezifische Includedateien.
+﻿#pragma once
 
-#pragma once
+#include <stdio.h>
 
-#include <iostream>
-
-// TODO: Verweisen Sie hier auf zusätzliche Header, die Ihr Programm erfordert.
