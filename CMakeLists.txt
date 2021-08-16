@@ -4,3 +4,4 @@ project ("Ogre Test Game")
 
 add_subdirectory ("Ogre Test Game")
 add_subdirectory ("ogre")
+add_subdirectory ("deps")

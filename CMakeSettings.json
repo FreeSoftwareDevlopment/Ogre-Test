@@ -30,6 +30,16 @@
           "name": "OGRE_INSTALL_DOCS",
           "value": "False",
           "type": "BOOL"
+        },
+        {
+          "name": "OGRE_INSTALL_TOOLS",
+          "value": "False",
+          "type": "BOOL"
+        },
+        {
+          "name": "pugixml_DIR",
+          "value": "pugixml_DIR-NOTFOUND",
+          "type": "PATH"
         }
       ]
     }
