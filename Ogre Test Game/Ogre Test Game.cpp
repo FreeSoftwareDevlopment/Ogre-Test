@@ -7,6 +7,11 @@ using namespace std;
 
 int main()
 {
-	puts("Hello CMake.");
+	puts("Hello OGRE.");
+    MyTestApp app;
+    app.initApp();
+    app.getRoot()->startRendering();
+    app.closeApp();
+    return 0;
 	return 0;
 }
